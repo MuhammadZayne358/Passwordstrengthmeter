@@ -1,0 +1,2 @@
+streamlit==1.17.0
+zxcvbn==4.4.27
